@@ -1,0 +1,94 @@
+
+
+### AWS offers:
+ - on-demand, 
+ - pay-as-you-go,  
+ - reservation-based payment models,
+
+
+There are three fundamental drivers of cost with AWS: 
+- compute, 
+- storage,  
+- outbound data transfer
+
+These characteristics vary somewhat, depending on the AWS product and pricing model you choose.
+In most cases, there is no charge for inbound data transfer or for data transfer between other AWS
+services within the same region. There are some exceptions, so be sure to verify data transfer rates
+before beginning.
+
+
+AWS offers several pricing models depending on product. These include:
+- On Demand means you pay for compute or database capacity with no long-term commitments or upfront payments.
+- Dedicated Instances (available with Amazon Elastic Compute Cloud (Amazon EC2)) run in a 
+	virtual private cloud (VPC) on hardware that’s dedicated to a single customer.
+- Spot Instances are an Amazon EC2 pricing mechanism that lets you purchase spare computing
+	capacity with no upfront commitment at discounted hourly rates.
+- Reservations provide you with the ability to receive a greater discount, up to 75 percent, by
+	paying for capacity ahead of time. More det
+
+
+
+### Pricing models for Amazon EC2:
+ - On demand : Pay as you go
+ - Spot Instance : 90% discount to On-Demand Instance pricing
+ - Reservation Instance : 75% discount to On-Demand Instance pricing
+ - Dedicated  - dedicated so not much cost benefits, but ( it allows you to use server-bound software licenses to meet the compliances)
+
+
+Per-second billing
+
+
+
+### Lamda
+Request pricing
+• Free Tier: 1 million requests per month, 400,000 GB-seconds of compute time per month
+• $0.20 per 1 million requests thereafter, or $0.0000002 per request
+Duration pricing
+• 400,000 GB-seconds per month free, up to 3.2 million seconds of compute time
+• $0.00001667 for every GB-second used thereafter
+
+
+
+### Amazon Elastic Block Store (Amazon EBS)
+
+IOPS - Input Output Per Seconds
+
+ - SSD-backed volumes are optimized for transactional workloads involving frequent read/write 
+ 	operations with small I/O size, where the dominant performance attribute is IOPS.
+ - HDD-backed volumes are optimized for large streaming workloads where throughput
+	(measured in megabits per second) is a better performance measure than IOPS.
+
+
+### Amazon Simple Storage Service (Amazon S3)
+Standard Storage is designed to provide 99.999999999 percent durability and
+99.99 percent availability.
+
+### Amazon S3 Glacier
+Starting at $0.004 per GB per month, 99.999999999 durability
+
+Data Acess Options:
+ - Expedited
+ - Standard 
+ - Bulk
+
+
+ ### Amazon Snowball
+ AWS Snowball pricing details:
+	Service fee per job
+		Snowball 50 TB: $200
+		Snowball 80 TB: $250
+	Extra-day charge
+		The first 10 days of onsite usage are free. Each extra onsite day is $15
+
+ Globale table 
+
+### Amazon CloudFront
+Amazon CloudFront is a global content delivery network (CDN) service that securely delivers data,
+videos, applications, and APIs to your viewers with low latency and high transfer speeds.
+
+
+### Amazon EC2 Reserved Instances
+
+REFERENCE : 
+https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf
+https://aws.amazon.com/architecture/?solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc&whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&reference-architecture.sort-by=item.additionalFields.sortDate&reference-architecture.sort-order=desc#AWS_Whitepapers_.26_Guides

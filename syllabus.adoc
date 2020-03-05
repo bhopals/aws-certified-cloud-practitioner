@@ -1,0 +1,46 @@
+
+### Section	Objectives
+	
+
+#### Cloud Concepts	(28%)
+
+- Define the AWS Cloud and its value proposition
+- Identify aspects of AWS Cloud economics
+- List the different cloud architecture design principles 
+
+
+
+
+#### Security (24%)
+
+- Define the AWS Shared Responsibility model
+- Define AWS Cloud security and compliance concepts
+- Identify AWS access management capabilities
+- Identify resources for security support 
+
+
+
+#### Technology	(36%)
+
+- Define methods of deploying and operating in the AWS Cloud
+- Define the AWS global infrastructure
+- Identify the core AWS services
+- Identify resources for technology support 
+
+
+
+
+#### Billing and Pricing	(12%)
+
+- Compare and contrast the various pricing models for AWS
+- Recognize the various account structures in relation to AWS billing and pricing
+- Identify resources available for billing support
+
+
+
+#### REFERENCE
+https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS_Certified_Cloud_Practitioner_Exam_Guide_v2.1.pdf
+
+https://d1.awsstatic.com/training-and-certification/Docs%20-%20Cloud%20Practitioner/AWS_Certified_Cloud_Practitioner-Exam_Guide_EN_v1.6.pdf
+
+https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practioner_Sample_Questions_v1.1_FINAL.PDF
