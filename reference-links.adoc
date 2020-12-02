@@ -1,6 +1,8 @@
 
 ###  REFERENCE LINKS:
 
+https://dev.to/helenanders26/series/2485
+
 https://tutorialsdojo.com/aws-cheat-sheets/
 
 https://mt-projects.github.io/aws/ccp/notes
