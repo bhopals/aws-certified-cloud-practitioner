@@ -1,4 +1,6 @@
 
 ###  REFERENCE LINKS:
 
+https://mt-projects.github.io/aws/ccp/notes
+https://rishabkumar7.github.io/CloudNotes/CPP.html
 https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc
